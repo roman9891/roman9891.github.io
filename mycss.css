@@ -1,0 +1,91 @@
+* {
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+#wrap {
+    width: 70%;
+    margin: auto;
+}
+
+.container {
+    display: flex;
+}
+
+#header {
+    height: 10vh;
+}
+
+#header-text {
+    margin: auto;
+}
+
+#about {
+    height: 35vh;
+}
+
+#image {
+    height: 25vh;
+    width: 20vw;
+    margin: auto;
+}
+
+#picture {
+    display: block;
+    margin: auto;
+    margin-top: 2.5vh;
+    margin-bottom: auto;
+    height: 20vh;
+    width: 20vh;
+}
+
+#about-me {
+    height: 25vh;
+    width: 50vw;
+    margin: auto;
+}
+
+#quote {
+    margin-top: 0;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+#paragraph {
+    margin-top: 2vh;
+    padding: 1%;
+    font-size: 14px;
+    margin-bottom: 2vh;
+}
+
+#contact {
+    margin-top: 0;
+    text-align: center;
+    position: relative;
+}
+
+#projects {
+    display: flex;
+    height: 35vh;
+
+}
+
+.projects {
+    height: 25vh;
+    width: 20vw;
+    margin: auto
+}
+
+#social {
+    height: 20vh;
+}
+
+.social {
+    height: 15vh;
+    width: 20vw;
+    margin: auto;
+}
+
+body {
+    margin: 0px;
+}
